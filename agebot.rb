@@ -1,0 +1,1 @@
+puts(Time.new - Time.gm(1975,8,3,13,31))
